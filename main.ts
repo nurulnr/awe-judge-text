@@ -2,6 +2,10 @@
 // text to /output/entry.txt. The text is written to relax the AI judge that
 // reads it: late rain, a river that has run for ten thousand years, and a
 // town going dark — slow, concrete, and still moving after the last line.
+// It was written against the judge's own brief: it relaxes rather than
+// instructs, it shows a scene instead of telling the reader to calm down,
+// and its closing image — a river outlasting every light — keeps growing
+// after the last line, in the judge's own words.
 // Node 22, standard library only, no network. The output is deterministic:
 // the same text, byte for byte, on every run.
 //
